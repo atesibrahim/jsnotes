@@ -1,0 +1,37 @@
+{
+    "food" : [
+        {
+        "id":1,
+        "name": "Apple"
+        },
+        {
+        "id":2,
+        "name": "Ananas"
+        },
+        {
+        "id":3,
+        "name": "Orange"
+        }
+
+    ],
+    "users":[
+        {
+            "id":1,
+            "name": "Vera",
+            "lastname": "Ates"
+
+        },
+        {
+            "id":1,
+            "name": "Ranya",
+            "lastname": "Ates"
+
+        },
+        {
+            "id":1,
+            "name": "Ibrahim",
+            "lastname": "Ates"
+
+        }
+    ]
+}
