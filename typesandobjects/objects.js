@@ -1,9 +1,14 @@
+// js objects created as
+  // object literals,
+  // constructor functions
+  // classes
+
 let mySymbol = Symbol();
 
 let personObject = {
     name: "Ibrahim",
     age:30,
-    [mySymbol] : 'secretInformation'
+    [mySymbol] : 'secretInformation' // this line is secret and could not see when wanted to list personObject
 };
 
 
