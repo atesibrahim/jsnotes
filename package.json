@@ -9,6 +9,10 @@
   "author": "Pluralsight",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^7.10.0",
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "mocha": "^8.1.3"
   }
 }
